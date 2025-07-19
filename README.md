@@ -2,9 +2,11 @@
 
 This repository contains the R scripts and workflow used for identifying **lncRNA biomarkers in HCC** through **differential expression analysis (DEA)** and **clustering-based annotation**.
 
+
+---
 The project was completed as part of my **Final Year Project (FYP)** in the BS Bioinformatics program.
 3 Datasets were used in my project, where slight changes were made accoridng to the accession ids. This repository contains codes modified for GSE72170.
----
+
 
 ## 📌 Objective
 
