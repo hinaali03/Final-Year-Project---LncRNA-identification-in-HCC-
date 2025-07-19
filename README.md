@@ -41,8 +41,6 @@ To identify potential **lncRNA biomarkers** in **Hepatocellular Carcinoma (HCC)*
 - BLAST results were mapped to a GENCODE **annotation file (GFF3 format)**
 - Genes overlapping with annotated lncRNAs were filtered and selected
 
----
-
 ### 🔹 Step 3: Clustering Analysis
 
 - Expression profiles of filtered lncRNAs were subjected to clustering using **Google Colab**
