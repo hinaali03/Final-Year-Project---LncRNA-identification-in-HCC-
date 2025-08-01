@@ -1,6 +1,7 @@
 # 🧬 lncRNA Biomarker Identification in Hepatocellular Carcinoma (HCC)
 
 This repository contains the R scripts and workflow used for identifying **lncRNA biomarkers in HCC** through **differential expression analysis (DEA)** and **clustering-based annotation**.
+This was donw with the collaboration of my teammate.
 
 
 ---
